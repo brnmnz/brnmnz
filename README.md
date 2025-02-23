@@ -4,6 +4,12 @@ I'm Bruno Muniz, a software engineer.
 
 In free time, I'm creating [PayTrust](https://github.com/getpaytrust).
 
+### My Articles on @Medium
+
+- [Service Strategy](https://medium.com/@brunohashimoto/rascunho-service-strategy-2eeb54a9c55b).
+- [Kubernetes for beginners](https://medium.com/@brunohashimoto/kubernetes-para-iniciantes-434b845f6d3f).
+
+-----
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brnmnz)]()
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
