@@ -2,7 +2,7 @@ Hi!
 
 I'm Bruno Hashimoto, a software engineer.
 
-In free time, I'm creating [PayTrust](https://github.com/getpaytrust)
+In free time, I'm creating [PayTrust]()
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brnmnz)](https://git.io/streak-stats)
 
