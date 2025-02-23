@@ -1,8 +1,10 @@
 Hi!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brnmnz)](https://git.io/streak-stats)
+I'm Bruno Hashimoto, a software engineer.
 
 In free time, I'm creating [PayTrust](https://github.com/getpaytrust)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brnmnz)](https://git.io/streak-stats)
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
