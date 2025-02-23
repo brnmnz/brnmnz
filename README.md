@@ -1,6 +1,6 @@
 Hi!
 
-I'm Bruno Hashimoto, a software engineer.
+I'm Bruno Muniz, a software engineer.
 
 In free time, I'm creating [PayTrust]()
 
