@@ -2,7 +2,7 @@ Hi!
 
 I'm Bruno Muniz, a software engineer.
 
-In free time, I'm creating [PayTrust](https://github.com/getpaytrust).
+In free time, I'm creating [PayTrust](https://github.com/getpaytrust), an project focused on secure and efficient payments.
 
 ### My Articles on @Medium
 
