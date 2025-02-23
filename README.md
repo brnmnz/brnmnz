@@ -2,9 +2,7 @@ Hi!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brnmnz)](https://git.io/streak-stats)
 
-In free time, I'm creating [PayTrust](https://github.com/getpaytrust).
-
-Writing about making coffee: [HashimotoLabs - a blog about technology](https://hashimotolabs.com).
+In free time, I'm creating [PayTrust](https://github.com/getpaytrust)
 
 -----
 This page's statistics:
