@@ -2,9 +2,9 @@ Hi!
 
 I'm Bruno Muniz, a software engineer.
 
-In free time, I'm creating [PayTrust]()
+In free time, I'm creating [PayTrust](https://github.com/getpaytrust)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brnmnz)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brnmnz)]()
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
