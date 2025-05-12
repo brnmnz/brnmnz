@@ -1,4 +1,4 @@
-Hi! I'm Bruno Hashimoto.
+Hi! I'm Bruno.
 
 Brazilian software engineer with 5 years of experience, currently in the final year of a Bachelor's degree in Information Systems. Specialized in software engineering, with a proven track record in developing e-commerce platforms, landing pages, enterprise systems, dashboards, and mobile applications. Focused on delivering scalable solutions through the implementation of robust Design Systems, ensuring consistency, monitoring, and observability across projects. Brings a strategic business mindset, actively contributing to digital transformation initiatives and aligning technology with business goals.
 
