@@ -1,6 +1,5 @@
 Hi! I'm Bruno.
 
-Brazilian software engineer with 5 years of experience, currently in the final year of a Bachelor's degree in Information Systems. Specialized in software engineering, with a proven track record in developing e-commerce platforms, landing pages, enterprise systems, dashboards, and mobile applications. Focused on delivering scalable solutions through the implementation of robust Design Systems, ensuring consistency, monitoring, and observability across projects. Brings a strategic business mindset, actively contributing to digital transformation initiatives and aligning technology with business goals.
 
 ## Find me around the web: <a href="https://github.com/sponsors/brnmnz"><img align="right" width="150" height="150" src="https://github.com/user-attachments/assets/49986cf8-74a0-4e92-a0fa-33bd17a9044f"></a>
 
